@@ -1,14 +1,13 @@
-#TodoApp 概要
-## AWS AmplifyとReact ChakraUIを用いてTodoAppを作成
-***
+# TodoApp 概要
+## AWS AmplifyとReact ChakraUIを用いたTodoAppの作成
 ## なぜ作ったのか？
 ### AWSを使用したサービスに興味があり、なおかつ現在AWSの資格試験の勉強中のため実際にサービスに触れながら勉強したいと考えていたため。
-***
+
 ## 習得したスキル
-*TypeScript+React+ChakraUIを用いたUI構築スキル
-*ReduxToolkitを用いた状態管理スキル
-*AWS Amplifyを用いたCRUD機能実装スキル
-*AWS Amplify + Githubを用いたデプロイスキル
+* TypeScript+React+ChakraUIを用いたUI構築スキル
+* ReduxToolkitを用いた状態管理スキル
+* AWS Amplifyを用いたCRUD機能実装スキル
+* AWS Amplify + Githubを用いたデプロイスキル
 
 
 # Getting Started with Create React App
